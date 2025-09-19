@@ -6,6 +6,7 @@ venv/
 # Ignore dataset files
 *.csv
 *.tsv
+data/
 
 # Ignore Python cache
 __pycache__/
